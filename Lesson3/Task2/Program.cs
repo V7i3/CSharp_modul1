@@ -1,4 +1,7 @@
-﻿int x1 = Coordinate("x", "A");
+﻿/* Напишите программу, которая принимает на вход координаты двух точек
+ и находит расстояние между ними в 3D пространстве. */
+
+int x1 = Coordinate("x", "A");
 int y1 = Coordinate("y", "A");
 int z1 = Coordinate("z", "A");
 int x2 = Coordinate("x", "B");
