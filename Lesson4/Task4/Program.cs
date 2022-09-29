@@ -54,7 +54,7 @@ int MaxTwo(int[] array){
     //Второй максимум без сортировки массива
     /* 
     int max = array[0];
-    int max2 = array[1];
+    int max2 = -1;
 
     for (int i = 0; i < array.Length; i++){
         if (array[i] > max){
